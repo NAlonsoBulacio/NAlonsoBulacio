@@ -14,6 +14,6 @@ Javascript React.js Next.js Node.js Express.js PostgreSQL Sequelize GIT Claramen
 
 No dudes en contactarme! Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
-Linkedin https://www.linkedin.com/in/nicol%C3%A1s-alonso-bulacio-02831a269/
+Linkedin https://www.linkedin.com/in/nicol%C3%A1s-alonsob/
 
 Correo: nicoalonso99.na@gmail.com
